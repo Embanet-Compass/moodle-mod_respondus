@@ -1,9 +1,9 @@
 {
-    "name": "embanet-compass/moodle-mod_respondus",
+    "name": "embanet-compass/moodle-mod_respondusws",
     "type": "moodle-mod",
     "description": "Respondus Module",
     "extra": {
-        "installer-name": "respondus",
-        "moodle": { "package_folder_name" : "respondus" }
+        "installer-name": "respondusws",
+        "moodle": { "package_folder_name" : "respondusws" }
     }
 }
